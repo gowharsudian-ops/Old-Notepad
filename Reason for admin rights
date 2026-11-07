@@ -1,0 +1,1 @@
+This script requires Administrator privileges because it modifies HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options to restore the legacy notepad pathway.
