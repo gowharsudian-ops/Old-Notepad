@@ -1,4 +1,4 @@
-Old-Notepad
+
 Old-Notepad is a simple batch script that helps restore or launch the classic Notepad experience on modern versions of Windows.
 
 Features
